@@ -1,14 +1,14 @@
 package edu.gorillas;
 
+
 public class Dni {
     //Atributos:
     private String dni;
-    private TablaAsignacion tabla = new TablaAsignacion();
 
 
     //Constructor:
     public Dni(String dni) {
-        this.dni = dni;
+        this.dni = dni.toUpperCase();
     }
 
 
@@ -20,8 +20,7 @@ public class Dni {
         this.dni = dni;
     }
 
-
     //Métodos:
-    
 
 }
+
