@@ -31,4 +31,4 @@ La clase `TablaAsignacion` proporciona una tabla de asignación para calcular la
 - `public char calcularLetra(String parteNumericaDni)`: Calcula la letra correspondiente a la parte numérica del DNI.
 
 ### Diagrama UML
-
+![UML_DNI2](https://github.com/Sandra-Eyo/KataDNI/assets/146345642/cfe90d08-3e7c-498e-90d1-67adcff37fb5)
